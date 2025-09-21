@@ -18,6 +18,7 @@
 
 ## Circuit Wiring
 ![Circuit Diagram](Circuit%20Diagram.png)
+
 · 3.6V 3500mA 스펙의 리튬배터리 4개와 TP4056 충전 모듈 4개를 이용한다.
 · TP 4056 입력단을 병렬로 연결하여 한 포트 연결 시 전체 배터리 충전한다.
 (유, 무선 충전 지원)
@@ -29,6 +30,8 @@
 ## Mobile App UI
 ![App Screen](App%20Screen.png)
 ![App Screen explain](App%20Screen%20explain.png)
+
+
 앱에서 블루투스 연결 및 영상 스트리밍 주소(IP)를 설정하고 주행 모드를 선택할 수 있다.  
 · 자동주행1~3 : 고양이 얼굴을 인식해 거리·위치에 따라 모터를 제어  
 · 수동주행 : 전/후/좌/우 버튼으로 직접 주행  
